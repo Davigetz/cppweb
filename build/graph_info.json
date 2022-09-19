@@ -1,0 +1,34 @@
+{
+ "options": [
+  [
+   "cpp-httplib:with_brotli",
+   "False"
+  ],
+  [
+   "cpp-httplib:with_openssl",
+   "False"
+  ],
+  [
+   "cpp-httplib:with_zlib",
+   "False"
+  ],
+  [
+   "xxhash:fPIC",
+   "True"
+  ],
+  [
+   "xxhash:shared",
+   "False"
+  ],
+  [
+   "xxhash:utility",
+   "True"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": null,
+  "channel": null
+ }
+}

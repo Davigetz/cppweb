@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/web.dir/src/main.cpp.o -o bin/web   -L/home/davigetz/.conan/data/xxhash/0.8.1/_/_/package/f72d07e53ded3c47b2b45d721a872a9803d7413a/lib 

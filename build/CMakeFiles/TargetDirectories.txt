@@ -1,0 +1,3 @@
+/media/davigetz/DATOS/PF/actual/c++ Web/CPPWEb/build/CMakeFiles/web.dir
+/media/davigetz/DATOS/PF/actual/c++ Web/CPPWEb/build/CMakeFiles/edit_cache.dir
+/media/davigetz/DATOS/PF/actual/c++ Web/CPPWEb/build/CMakeFiles/rebuild_cache.dir
