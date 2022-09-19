@@ -1,6 +1,6 @@
 # CPP-WEB
 ## Introduccion
-Este proyecto se realizo con la intencion de ver la capacidad que utiliza c++ en parte web y utilizarlo en caso de necesitarse en un futuro. Asi como mirar que tan facil o dificil es.
+Este proyecto se realizo con la intencion de ver la capacidad que utiliza c++ en parte web y utilizarlo en caso de necesitarse en un futuro. Asi como mirar que tan facil o dificil es su implementacion.
 
 ## Objetivos
 - Escribir una App con C++, cpp-httplib,nlohmann_json,inja, xxhash
